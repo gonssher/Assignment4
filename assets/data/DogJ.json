@@ -1,0 +1,33 @@
+{
+  "animal": "dog",
+  "timePeriod": "10years",
+  "credential": "Animal",
+  "animall": [
+    { "Name":"Husky",
+      "Lifespan": "10 – 13 years",
+      "Gestationperiod": "58 – 68 days",
+      "Dailysleep": "12 – 14 hours (Adult)",
+      "Scientificname": "Canis lupus familiaris",
+      "picture": ""
+    },
+    {
+      "Name":"Golden Retriever",
+      "Lifespan": "10 – 18 years",
+      "Gestationperiod": "48 – 98 days",
+      "Dailysleep": "7 – 9 hours (Adult)",
+      "Scientificname": "Canis lupus familiaris",
+      "picture": "assets/images/dogs/husky.jpg"
+    },
+    {
+      "Name":"German Shepard",
+      "Lifespan": "12 – 15 years",
+      "Gestationperiod": "10 – 78 days",
+      "Dailysleep": "11 – 18 hours (Adult)",
+      "Scientificname": "Canis lupus familiaris",
+      "picture": ""
+    }
+
+  ]
+
+
+}

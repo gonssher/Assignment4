@@ -1,0 +1,34 @@
+{
+  "animal": "Cat",
+  "timePeriod": "20years",
+  "credential": "AnimalCats",
+  "anima": [
+    {
+      "Name": "Persian cat",
+      "Lifespan": " 10 � 17 years",
+      "credit": 3,
+      "Origin": "Iran",
+      "Scientificname": "Felis catus",
+      "picture": ""
+    },
+    {
+      "Name": "Ragamuffin cat",
+      "Lifespan": " 10 � 12 years",
+      "credit": 2,
+      "Origin": "Ethiopia",
+      "Scientificname": "Felis catus",
+      "picture": ""
+    },
+    {
+      "Name": "Munchkin cat",
+      "Lifespan": " 10 � 20 years",
+      "credit":1,
+      "Origin": "Arkhangelsk",
+      "Scientificname": "Felis catus",
+      "picture": ""
+    }
+
+  ]
+
+
+}
